@@ -1,0 +1,304 @@
+{'_id': '11361(B)HS ADLT FURN MNR MARIJ', 'num': 1}
+{'_id': '245(C) AWDW/NO FIREARM/OFFICER', 'num': 1}
+{'_id': '243(B) BATTERY DR/NURSE/EMERG', 'num': 1}
+{'_id': '25662(A)BP POSS ALC BY MINOR', 'num': 1}
+{'_id': '12671 HS SALE/POSS ILLGL FRWRK', 'num': 1}
+{'_id': '603  FORCED ENTRY/PROP DAMAGE', 'num': 2}
+{'_id': 'WANTED SUBJ-O/S WANT/ I RPT', 'num': 2}
+{'_id': '484 PETTY THEFT-PURSE SNATCH', 'num': 2}
+{'_id': '11351 HS POSS/SALE OPIATE/NARC', 'num': 1}
+{'_id': '203 PC    MAYHEM', 'num': 1}
+{'_id': '9.44.220 SCC ANIMAL AT LARGE', 'num': 1}
+{'_id': 'TRAFFIC ARREST FOR DA-I RPT', 'num': 1}
+{'_id': '602.5 PC ENTRY OF PROPERTY', 'num': 1}
+{'_id': '148.4(A)PC TAMPER FIRE PROT EQ', 'num': 1}
+{'_id': 'FORGERY-PASSING COUNTERFEIT', 'num': 1}
+{'_id': '10853 VC MALIC MISCHIEF TO VEH', 'num': 2}
+{'_id': '243.4(A) SEXUAL BATTERY', 'num': 2}
+{'_id': '31 VC FALSE INFO TO OFFICER', 'num': 1}
+{'_id': 'VICE/GAMBLING ACT - I RPT', 'num': 1}
+{'_id': '601(A) WI JUVENILE INCORRIGIBL', 'num': 2}
+{'_id': 'BAIT CAR 10851 VC TAKE VEHICLE', 'num': 1}
+{'_id': '12025(A)2)CONCL GUN ON PER/MSD', 'num': 1}
+{'_id': '4463(A)(1) VC ALTER REG', 'num': 2}
+{'_id': '12101(B)1)PC MINOR POSS AMMO', 'num': 1}
+{'_id': 'FRAUDULENT DOCUMENTS- I RPT', 'num': 3}
+{'_id': '374.4(A) LITTERING', 'num': 2}
+{'_id': '12022(A)(1)PC ARMED COMM FEL', 'num': 1}
+{'_id': '10.48.150 E FALSIFY PKG PERMIT', 'num': 1}
+{'_id': '647(F) PC PUB INTOX-DETOX ONLY', 'num': 3}
+{'_id': '2800.2(A) VC EVADING/RECKLESS', 'num': 5}
+{'_id': '243(C)2 PC BATT/PO WITH INJURY', 'num': 1}
+{'_id': '245(A)(1)AWDW/NO FIREARM/CIVIL', 'num': 76}
+{'_id': '11550(A)HS UNDER INFL NARCOTIC', 'num': 4}
+{'_id': '11352(A)HS SALE/TRANS CNTL SUB', 'num': 15}
+{'_id': 'JUVENILE PROBLEMS - I RPT', 'num': 8}
+{'_id': '211 PC ROBBERY-PURSE SNATCH', 'num': 20}
+{'_id': 'O/S AGENCY -ASSISTANCE- I RPT', 'num': 13}
+{'_id': '4574(A)WEAPON/TEAR GAS IN JAIL', 'num': 1}
+{'_id': 'NARCOTICS SUSP/EVID/ACT- I RPT', 'num': 41}
+{'_id': 'POSSIBLE MENTAL - I RPT', 'num': 5}
+{'_id': '166(A)(4) WILFUL DISOBEY CT OR', 'num': 10}
+{'_id': '290(F)1 W/I 5 DAYS ADD CHANGE', 'num': 8}
+{'_id': '187(A)  HOMICIDE', 'num': 1}
+{'_id': 'WARRANT SERVED - I RPT', 'num': 14}
+{'_id': '12420 PC SELL/TRANSP TEAR GAS', 'num': 1}
+{'_id': '240 PC ASSAULT/SIMPLE-CIVILIAN', 'num': 3}
+{'_id': '487(A) GRAND THEFT-COIN MACHIN', 'num': 4}
+{'_id': '484 PC-PETTY THEFT-COIN MACHIN', 'num': 7}
+{'_id': 'ACCIDENTAL FIRES/ARSON -I RPT', 'num': 20}
+{'_id': 'HARASSMENT - I RPT', 'num': 36}
+{'_id': 'TELEPEST -I RPT', 'num': 17}
+{'_id': '12025(A)2)CNCLD GUN ON PER/FEL', 'num': 2}
+{'_id': '211 PC ROBBERY- BUSINESS', 'num': 38}
+{'_id': 'PROTECTIVE CUSTODY-I RPT', 'num': 9}
+{'_id': '4140 BP  POSS OF HYPO NEEDLE', 'num': 16}
+{'_id': '368(C) CAUSE PAIN/INJ TO ELDER', 'num': 1}
+{'_id': '148.9 PC FALSE ID TO OFFICER', 'num': 13}
+{'_id': '215(A) PC    CARJACKING', 'num': 18}
+{'_id': 'POSSIBLE STOLEN PROPERTY-I RPT', 'num': 5}
+{'_id': '594(B)(1)VANDALISM GRAF +$400', 'num': 9}
+{'_id': '12020(A)(4) PC DIRK/DAGGER', 'num': 7}
+{'_id': '487(A) GRAND THEFT-CLOUT-UNLOC', 'num': 11}
+{'_id': '11350(A)HS POSS CNTRL SUBST', 'num': 43}
+{'_id': 'CHILD WELFARE - I RPT', 'num': 16}
+{'_id': '12316(B)(1)FELON POSSESS AMMO', 'num': 2}
+{'_id': 'SAFEKEEPING - I RPT', 'num': 14}
+{'_id': 'MISSING PERSON LOCATE O/S ASSI', 'num': 13}
+{'_id': '11357(B)HS POSS -28.5GR MARIJ', 'num': 51}
+{'_id': '496(A) RECEIVE STOLEN PROPERTY', 'num': 24}
+{'_id': '11377(A)HS POSS CNTRL SUBST', 'num': 2}
+{'_id': '487(A) GRAND THEFT-AUTO PARTS', 'num': 8}
+{'_id': '653M(A) PC OBSCENE/THREAT CALL', 'num': 17}
+{'_id': 'CHILD CUSTODY - I RPT', 'num': 10}
+{'_id': 'POSSIBLE FINANCIAL CRIME-I RPT', 'num': 14}
+{'_id': '23153(A) VC DUI CAUSE INJURY', 'num': 15}
+{'_id': 'SUSPICIOUS VEHICLE - I RPT', 'num': 6}
+{'_id': '197 JUSTIFIABLE HOMI-CIVILIAN', 'num': 1}
+{'_id': 'PERSON INFORMATION - I RPT', 'num': 16}
+{'_id': '626.10(A) PC POSS WPN SCHL ZN', 'num': 4}
+{'_id': '242 PC  BATTERY CIVILIAN', 'num': 89}
+{'_id': 'ASSAULT WITH WEAPON - I RPT', 'num': 16}
+{'_id': 'TRAFFIC - I RPT', 'num': 20}
+{'_id': '415.5(A)(1) PC FIGHT SCHOOL GR', 'num': 1}
+{'_id': '422 PC THREAT/INTENT TO TERROR', 'num': 18}
+{'_id': '11378 HS POSS CNTRL SUB/SALE', 'num': 1}
+{'_id': '487(D)GRAND THEFT FIREARM/ANIM', 'num': 8}
+{'_id': '212.5(A)ROBBERY-INHAB DWELLING', 'num': 8}
+{'_id': '470 PC FORGERY', 'num': 1}
+{'_id': '192(C)(2)VEH MAN W/O GROSS NEG', 'num': 2}
+{'_id': '484 PETTY THEFT-SHOPLIFT', 'num': 86}
+{'_id': '529 PC FALSE PERSONATION', 'num': 23}
+{'_id': '11379(A)HS SALE/TRAN CNTRL SUB', 'num': 1}
+{'_id': '11364 HS POSS DRUG PARAPH', 'num': 99}
+{'_id': 'VANDALISM - I RPT', 'num': 24}
+{'_id': 'MISSING PERSON', 'num': 268}
+{'_id': '148(A)(1)PC RESIST PEACE OFFCR', 'num': 10}
+{'_id': '484J PC PUBLISH CARD INFO', 'num': 21}
+{'_id': 'BATTERY - I RPT', 'num': 35}
+{'_id': '246.3 PC NEGL DISCH FIREARM', 'num': 2}
+{'_id': '484 PC  PETTY THEFT AUTO PART', 'num': 4}
+{'_id': '484 PETTY THEFT/LICENSE PLATE', 'num': 119}
+{'_id': 'MISCELLANEOUS I RPT (ZMISC)', 'num': 71}
+{'_id': '243.6 BATTERY SCHOOL EMPLOYEE', 'num': 4}
+{'_id': '10855 VC LSE/RENT NOT RETURNED', 'num': 3}
+{'_id': '9.04.050 A DRINKING IN PUBLIC', 'num': 9}
+{'_id': 'TERRORIST THREATS - I RPT', 'num': 3}
+{'_id': '487(A) PC GRAND THEFT', 'num': 84}
+{'_id': '1551(A) FUGITIVE FROM JUSTICE', 'num': 13}
+{'_id': '484 PC  PETTY THEFT/ OUTSIDE', 'num': 48}
+{'_id': '290(A)(1)(D) FAIL TO REG-5 DAY', 'num': 8}
+{'_id': '211 PC  ROBBERY UNSPECIFIED', 'num': 99}
+{'_id': '484E(D)PC FRAUD POSS CARD INFO', 'num': 2}
+{'_id': '23103(A) RECKLESS ON HIGHWAY', 'num': 8}
+{'_id': '647(A) PC LEWD CONDUCT', 'num': 1}
+{'_id': 'GRAND THEFT - I RPT', 'num': 6}
+{'_id': '503 PC   EMBEZZLEMENT', 'num': 4}
+{'_id': '211 PC  ROBBERY-BANK', 'num': 1}
+{'_id': '243.4(E)(1)TOUCH FOR SEX PLEAS', 'num': 2}
+{'_id': 'LOST PROPERTY - I RPT', 'num': 57}
+{'_id': 'JUVENILE OFFENDER-PROBATION', 'num': 1}
+{'_id': 'FORGERY-COUNTERFEITING', 'num': 1}
+{'_id': '666 PC PETTY THEFT W/PRI CONV', 'num': 30}
+{'_id': '459 PC  BURGLARY RESIDENCE', 'num': 356}
+{'_id': '498(B)(5) THEFT OF ELECTRICITY', 'num': 1}
+{'_id': '368(B)(1) CRUELTY/ELDER/ W/INJ', 'num': 1}
+{'_id': '12022.1 PC COMMIT FEL ON BAIL', 'num': 3}
+{'_id': 'DUI I RPT', 'num': 1}
+{'_id': '12025(B)6 UNREG/CONCLED FIREAR', 'num': 1}
+{'_id': '12.52.030 SCC UNLAWFUL CAMPING', 'num': 7}
+{'_id': '484G(B) PC ACCESS CARD FRAUD', 'num': 66}
+{'_id': '626.2 PC UNAUTH ENTRY CAMPUS', 'num': 1}
+{'_id': '278.5(A)DEPRIVE RIGHT OF CUSTO', 'num': 1}
+{'_id': '530.5 PC USE PERSONAL ID INFO', 'num': 65}
+{'_id': '647(F) PC DIP - DISORDERLY', 'num': 25}
+{'_id': '10851(A)VC TAKE VEH W/O OWNER', 'num': 653}
+{'_id': '14601.1(A) VC LIC SUSP OTHER', 'num': 6}
+{'_id': '653M(B) PC ANNOY/RPT CALL HOME', 'num': 12}
+{'_id': '11357(C)HS POSS +28.5GR MARIJ', 'num': 2}
+{'_id': '11351.5 HS POSS SALE RCK COCAI', 'num': 8}
+{'_id': '602(N)TRESP DRIVE ON PRIVATE P', 'num': 1}
+{'_id': '11377(A)HS POSS AMPHETAMINES', 'num': 58}
+{'_id': '602.1(A)TRES OBST BUSIN OPERAT', 'num': 1}
+{'_id': '475(A)PC POSS FORGED CHK/NOTE', 'num': 13}
+{'_id': '487(A) GRAND THEFT-INSIDE', 'num': 41}
+{'_id': 'GANG ACTIVITY - I RPT', 'num': 65}
+{'_id': '243(D) PC BATT/CIVILIAN W/INJ', 'num': 26}
+{'_id': 'BURGLARY - I RPT', 'num': 21}
+{'_id': '459 PC  BURGLARY VEHICLE', 'num': 462}
+{'_id': '290(G)(1) FAIL TO REG SEX OFFE', 'num': 1}
+{'_id': '537(A)(1) DEFRAUD INKEEP/-$400', 'num': 3}
+{'_id': '459 PC  BURGLARY BUSINESS', 'num': 135}
+{'_id': '602(K)TRESPASS:INJURE PROPERTY', 'num': 4}
+{'_id': '459 PC  BURGLARY-UNSPECIFIED', 'num': 12}
+{'_id': '12500(A) VC UNLIC DRIVER', 'num': 2}
+{'_id': 'SUSP PERS-NO CRIME - I RPT', 'num': 44}
+{'_id': '314.1 PC   INDECENT EXPOSURE', 'num': 2}
+{'_id': 'BUSINESS PERMITS - I RPT', 'num': 4}
+{'_id': '3056 PAROLE VIO - I RPT', 'num': 27}
+{'_id': 'ROBBERY - I RPT', 'num': 12}
+{'_id': '3056 PC PAROLE VIOLATION', 'num': 5}
+{'_id': '484 PC   PETTY THEFT/INSIDE', 'num': 99}
+{'_id': 'SHOOT INTO OCCUP DWELL - I RPT', 'num': 2}
+{'_id': 'NON INJ HR/MAIL OUT REPORT', 'num': 90}
+{'_id': '246 PC SHOOT OCCUP DWELL/VEH', 'num': 17}
+{'_id': 'CASUALTY REPORT', 'num': 116}
+{'_id': 'TRAFFIC-ACCIDENT-NON INJURY', 'num': 175}
+{'_id': 'TRAFFIC-ACCIDENT INJURY', 'num': 182}
+{'_id': '1203.2 PC VIOLATION OF PROBATI', 'num': 12}
+{'_id': '594(B)(1)PC  VANDALISM +$400', 'num': 117}
+{'_id': '23152(A) VC DUI-ALCOHOL/DRUGS', 'num': 84}
+{'_id': 'PETTY THEFT - I RPT', 'num': 8}
+{'_id': '12020(A)1) PROHIBITED FIREARM', 'num': 10}
+{'_id': 'TOWED/STORED VEH-14602.6', 'num': 463}
+{'_id': '21200.5 VC BICYCLE DUI', 'num': 1}
+{'_id': 'FOUND PROPERTY - I RPT', 'num': 81}
+{'_id': '594(B)(2)(A) VANDALISM/ -$400', 'num': 195}
+{'_id': '475(C) PASS FORGED NOTE', 'num': 20}
+{'_id': '9.04.070 URINATE/DEFECATE PUB', 'num': 1}
+{'_id': '506 PC EMBEZZLEMENT/CONTRACTOR', 'num': 1}
+{'_id': '32210 EC WILFL DISTURB PUB SCH', 'num': 1}
+{'_id': '530 PC FALSE PERS. REC PROP', 'num': 5}
+{'_id': '484 PC PETTY THEFT', 'num': 82}
+{'_id': '10851 VC AUTO THEFT LOCATE', 'num': 223}
+{'_id': 'THREATS - I RPT', 'num': 71}
+{'_id': '484 PETTY THEFT CLOUT UNLOCKED', 'num': 20}
+{'_id': '836.6(B) PC ESCAPE FROM ARREST', 'num': 1}
+{'_id': '484G(A)PC USE FORGED CARD', 'num': 6}
+{'_id': 'IMPOUNDED VEHICLE', 'num': 10}
+{'_id': 'TOWED/STORED VEHICLE', 'num': 434}
+{'_id': '243(E)1 BATTERY NONCOHAB SPOUS', 'num': 81}
+{'_id': '647(B) PC   PROSTITUTION', 'num': 39}
+{'_id': '452(D)PC CAUSE FIRE OF PROPERT', 'num': 1}
+{'_id': '25661 BP FALSE EVIDENCE OF AGE', 'num': 2}
+{'_id': 'FRAUD OR BUNCO - I RPT', 'num': 19}
+{'_id': '9.40.020(A) JUVENILE CURFEW', 'num': 3}
+{'_id': '273.6(A) PC VIO DV COURT ORDER', 'num': 25}
+{'_id': 'ABC LICENSE VIO/INFO - I RPT', 'num': 4}
+{'_id': '496(A) PC REC STOLEN AUTO PART', 'num': 1}
+{'_id': '11378 HS POSS/SALE AMPHETAMINE', 'num': 10}
+{'_id': '11352(B)HS TRANS SUBST TO CNTY', 'num': 1}
+{'_id': '11359 HS POSS FOR SALE MARIJ', 'num': 8}
+{'_id': '532 PC FRAUD OBTAIN MONEY ETC', 'num': 4}
+{'_id': '4462.5 VC FALSE TAB/AVOID REG', 'num': 3}
+{'_id': 'RECOVERED PROPERTY - I RPT', 'num': 5}
+{'_id': 'FRAUD-SWINDLE', 'num': 2}
+{'_id': 'HIT AND RUN /SUSPECTS- I RPT', 'num': 7}
+{'_id': 'MISSING PERSON I RPT', 'num': 24}
+{'_id': '23220 VC DRINKING WHILE DRVING', 'num': 1}
+{'_id': 'FAMILY DISTURBANCE - I RPT', 'num': 13}
+{'_id': 'HAZARDOUS SITUATION - I RPT', 'num': 2}
+{'_id': '368(E) THEFT OF ELDER <$400', 'num': 2}
+{'_id': '476 PC PASS FICTICIOUS CHECK', 'num': 21}
+{'_id': '594(B)(2)(A)VANDALISM GRAF-400', 'num': 22}
+{'_id': 'DAMAGE - I RPT', 'num': 1}
+{'_id': '11358 HS CULTIVATE MARIJUANA', 'num': 1}
+{'_id': '538D PC IMPERSON PEACE OFFICER', 'num': 1}
+{'_id': '11532(A)HS LOITER DRG ACTIVITY', 'num': 5}
+{'_id': '451(D) PC  ARSON OF PROPERTY', 'num': 10}
+{'_id': '484E(A)PC THEFT OF CREDIT CARD', 'num': 2}
+{'_id': '653.22(A) LOITER PROSTITUTION', 'num': 12}
+{'_id': '417(A)1) PC BRANDISH NON-GUN', 'num': 8}
+{'_id': '487(A) PC GRAND THEFT-SHOPLIFT', 'num': 6}
+{'_id': 'INTOX REPORT/ADMIN PER - I RPT', 'num': 1}
+{'_id': '20001(A) VC HIT/RUN INJ/DEATH', 'num': 30}
+{'_id': 'PROB VIOLA/FEL-MISD - I RPT', 'num': 7}
+{'_id': '11360(A)HS SALE/TRANSP MARIJ', 'num': 1}
+{'_id': 'LOST PROPERTY-MATRICULA I RPT', 'num': 1}
+{'_id': '12021(A)(1)PC FELON POSS FRARM', 'num': 8}
+{'_id': '148.1(A)PC FALSE REPT OF BOMB', 'num': 2}
+{'_id': '417(A)2) PC BRANDISH FIREARM', 'num': 5}
+{'_id': '374.3(A) PC ILLEGAL DUMPING', 'num': 1}
+{'_id': '487(C) PC  GRAND THEFT-PERSON', 'num': 4}
+{'_id': 'JUVENILE DISURBANCE - I RPT', 'num': 7}
+{'_id': '247(B) PC SHOOT UNOCC BLDG/VEH', 'num': 5}
+{'_id': '415(3) PC DIST PEACE OFF WORDS', 'num': 2}
+{'_id': 'POSS STOLEN VEHICLE- I RPT', 'num': 5}
+{'_id': '451(B) PC ARSON OF INHAB STRUC', 'num': 3}
+{'_id': 'COLLISION/ACCIDENT BOATS', 'num': 1}
+{'_id': '243(C)(1)BATT EMERG PERSON-INJ', 'num': 1}
+{'_id': '594.3(A)VANDAL/PLACE OF WORSHI', 'num': 4}
+{'_id': '22435.2(A) BP POSS SHOP CART', 'num': 7}
+{'_id': '12303.3 PC DEST DVC INTENT INJ', 'num': 1}
+{'_id': 'NEIGHBORHOOD DISTURBANCE-I RPT', 'num': 15}
+{'_id': '12403.7(G) PC ILLGL POSS TRGAS', 'num': 1}
+{'_id': '368(D) THEFT-ELDER >400', 'num': 3}
+{'_id': '484 PC   THEFT-LIC PLATE TABS', 'num': 6}
+{'_id': '487(D) PC GRAND THEFT AUTO', 'num': 1}
+{'_id': '11350(B)HS POSSESS QUAALUDES', 'num': 9}
+{'_id': '12.72.060I ADULT LOITER PLYGRD', 'num': 1}
+{'_id': '849(B)(1) CERTIFICATE OF RELEA', 'num': 4}
+{'_id': '602(L)(1)TRESPASS REFUSE TO LV', 'num': 3}
+{'_id': '508 PC   EMBEZZLEMENT/EMPLOYEE', 'num': 3}
+{'_id': '415(1) PC DISTURB PEACE/FIGHT', 'num': 9}
+{'_id': 'HOMICIDE ASSAULT - I RPT', 'num': 1}
+{'_id': '290(A)(1)(A) FAIL REG-CHG ADD', 'num': 1}
+{'_id': '12025(A)1)CONCLD GUN VEH/FEL', 'num': 1}
+{'_id': '1708 US   THEFT OF MAIL', 'num': 20}
+{'_id': '20002(A) HIT/RUN', 'num': 103}
+{'_id': '245(A)(2) AWDW/FIREARM/CIVILIA', 'num': 22}
+{'_id': '466 PC   POSS OF BURG TOOLS', 'num': 6}
+{'_id': '11357(E) MNR POSS MARIJ SCHOOL', 'num': 3}
+{'_id': '664/187(A) ATTEMPTED HOMICIDE', 'num': 1}
+{'_id': 'CAR CLOUT -  I RPT', 'num': 2}
+{'_id': '308(B) PC MINOR POSS TOBACCO', 'num': 6}
+{'_id': '14601(A) VC LIC SUSP NEGLIGENT', 'num': 1}
+{'_id': 'FOUND EVIDENCE-NON NARC -I RPT', 'num': 4}
+{'_id': 'TRESPASS OR PROWLER- I RPT', 'num': 6}
+{'_id': '11379(A)HS SELL/TRANSP AMPHET', 'num': 2}
+{'_id': '32 PC ACCESSORY TO A CRIME', 'num': 1}
+{'_id': 'TRAFFIC OFFENSE', 'num': 3}
+{'_id': '12031(A)(1)PC LOADED GUN/PUB-M', 'num': 1}
+{'_id': '5150 WI DANGER SELF/OTHERS', 'num': 106}
+{'_id': '485 PC PT OF FOUND PROPERTY', 'num': 1}
+{'_id': 'FILE-UNABLE TO DEFINE - I RPT', 'num': 1}
+{'_id': 'BOMBS/THREATS/EXPLOSIV- I RPT', 'num': 4}
+{'_id': '243(B) PC  BATTERY - OFFICER', 'num': 1}
+{'_id': '417.4 PC BRANDISH IMIT FIREARM', 'num': 1}
+{'_id': '136.1(C)(1) PC DISSUADE V/W', 'num': 1}
+{'_id': '23222(B)POSSESS MARIJ IN VEH', 'num': 11}
+{'_id': '13.10.200 SCC DUMP PUB PLACES', 'num': 1}
+{'_id': '23152(B) VC DUI BA .08 OR MORE', 'num': 2}
+{'_id': '243.3 BATT TRANS PERS/PASS/INJ', 'num': 1}
+{'_id': '25632 BP CONSM ALC AFT CLOSING', 'num': 1}
+{'_id': '12303.3 PC FIRE BOMB INT INJ', 'num': 1}
+{'_id': '11366 HS MAINTN PLACE TO SELL', 'num': 1}
+{'_id': '1767.3 WI CYA PAROLE HOLD', 'num': 1}
+{'_id': 'GRAFFITI PROBLEMS- I RPT', 'num': 5}
+{'_id': '99170 PUBLIC UTILITIES CODE', 'num': 1}
+{'_id': '23550.5 VC 4+DUI IN 10 YEARS', 'num': 1}
+{'_id': '243.2(A)(1) BATT/SCHOOL INJURY', 'num': 14}
+{'_id': 'ELDER ABUSE/PHYS/MENTAL-I RPT', 'num': 7}
+{'_id': '1705 US DESTRUCT OF MAIL RECEP', 'num': 2}
+{'_id': 'FALSE PERSONATION - I RPT', 'num': 1}
+{'_id': 'RPT # CANCELLED- I RPT', 'num': 2}
+{'_id': '10852 VC VEHICLE TAMPERING', 'num': 3}
+{'_id': '587C PC EVADE PAYMENT RAILFARE', 'num': 1}
+{'_id': '653K PC POSS/SELL SWITCHBLADE', 'num': 3}
+{'_id': '241(B) ASSAULT ON POLICE OFFIC', 'num': 1}
+{'_id': '647(I) PEEPING TOM-INHAB DWELL', 'num': 1}
+{'_id': '23110(B) VC THROW AT VEH W/INT', 'num': 1}
+{'_id': 'ABANDONED VEHICLE - I RPT', 'num': 1}
+{'_id': '9.04.050C POSS OPEN CONTAINER', 'num': 1}
+{'_id': '212.5(B) ROB-VICINITY OF ATM', 'num': 1}
+{'_id': '5.136.050 NO TAXICAB PERMIT', 'num': 1}
